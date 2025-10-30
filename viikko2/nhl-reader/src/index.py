@@ -10,8 +10,11 @@ def main():
     # Suodatetaan suomalaiset
     finnish_players = [p for p in players if p.nationality == "FIN"]
 
+    #järjestetään:
+    finnish_sorted = sorted(finnish_players, key=lambda p: p.total_points(), reverse=True)
+
     print("Players from FIN:")
-    for player in finnish_players:
+    for player in finnish_sorted:
         print(player)
 
 
