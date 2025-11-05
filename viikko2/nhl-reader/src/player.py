@@ -1,5 +1,5 @@
 class Player:
-    
+
     def __init__(self, data: dict):
         # Attribuutit, joita ohjelmassa tarvitaan
         self.name = data.get("name")
@@ -13,4 +13,3 @@ class Player:
 
     def __str__(self):
         return f"{self.name:20} team {self.team}  {self.goals} + {self.assists} = {self.total_points()}"
-    
