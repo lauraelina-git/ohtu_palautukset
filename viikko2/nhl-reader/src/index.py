@@ -7,7 +7,6 @@ from player import Player
 
 console = Console()
 
-
 class PlayerReader:  # pylint: disable=too-few-public-methods
     def __init__(self, url: str):
         self.url = url
