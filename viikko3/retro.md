@@ -1,0 +1,5 @@
+Retrospektiivitekniikoista:  
+
+Start, Stop, Continue on suoraviivainen ja asiakeskeinen. Tiimi kirjaa ylös mitä uusia toimintatapoja, työkaluja jne tulisi ottaa käyttöön seuraavassa sprintissä, ja vastaavasti mitä pitäisi lakata tekemästä ja mitä vanhoista toimintatavoista ja työkaluista olisi syytä jatkossakin käyttää.  Tätä voidaan laajentaa More of, Less of –osioilla, jolloin lisätään retroon myös mitä pitäisi tehdä enemmän ja mitä vähemmän. Esimerkiksi palavereja tuskin halutaan kokonaan lopettaa, mutta vähentää niitä kyllä usein voidaan. Usein tähän käytetään visuaalisena ilmaisuna Pyörää, johon osiot kirjoitetaan, mutta se ei ole välttämätöntä. 
+
+Glad, Sad, Mad on tekniikka, jossa tiimi keskittyy reflektoimaan tunteitaan. Se sopii käytettäväksi, kun tiimin sisällä on jännitteitä ja tiimihenkeä halutaan parantaa. Tämän tekniikan ajatuksena on, että tiimi miettii, mitkä asiat sprintissä tekivät heidät iloisiksi ja mitkä surullisiksi, mitkä suututtivat. Eli tiimi ei vain mekaanisesti mieti mitä lisää ja mitä enemmän, vaan enemmänkin miten tiimin tyytyväisyyttä voisi parantaa.
