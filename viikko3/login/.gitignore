@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtual environments
+.env/
+venv/
+login-py3.13/
+*.venv
+
+# Poetry
+.poetry/
+poetry.lock
+
+# Logs
+*.log
+log.html
+output.xml
+report.html
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MacOS
+.DS_Store
+
+# Test / temporary files
+*.tmp
+
