@@ -7,7 +7,6 @@ class Kauppa:
         self._viitegeneraattori = viitegeneraattori
         self._kaupan_tili = "33333-44455"
 
-
     def aloita_asiointi(self):
         self._ostoskori = Ostoskori()
 
