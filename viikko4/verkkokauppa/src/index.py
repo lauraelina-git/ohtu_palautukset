@@ -15,6 +15,7 @@ def main():
     kauppa.lisaa_koriin(3)
     kauppa.poista_korista(1)
     kauppa.tilimaksu("Pekka Mikkola", "1234-12345")
+    print ("tagien harjoittelua varten tehty muutos")
 
     # seuraava asiakas
     kauppa.aloita_asiointi()
