@@ -17,6 +17,7 @@ def main():
     kauppa.tilimaksu("Pekka Mikkola", "1234-12345")
     print ("tagien harjoittelua varten tehty muutos")
     print ("tagien harjoittelua varten tehty muutos 2")
+    print ("tagien harjoittelua varten tehty muutos 3")
 
     # seuraava asiakas
     kauppa.aloita_asiointi()
